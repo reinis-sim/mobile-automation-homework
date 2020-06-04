@@ -1,0 +1,17 @@
+screens/DigCamScreen.class
+screens/HomeScreen.class
+general/ScreenManager.class
+screens/SearchResultsScreen.class
+screens/BaseScreen.class
+screens/SettingsScreen.class
+general/ElementCollection.class
+screens/SignInScreen.class
+screens/RegisterScreen.class
+screens/ProductScreen.class
+screens/CreateAnAccountScreen.class
+screens/ProductOptionsScreen.class
+general/AppiumElement.class
+screens/CategoriesScreen.class
+screens/SearchScreen.class
+general/Logger.class
+screens/CamerasPhotoScreen.class

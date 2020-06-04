@@ -1,0 +1,17 @@
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/BaseScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/DigCamScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/SearchResultsScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/CamerasPhotoScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/CategoriesScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/general/AppiumElement.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/general/Logger.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/SignInScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/general/ElementCollection.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/ProductOptionsScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/ProductScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/CreateAnAccountScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/SettingsScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/SearchScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/RegisterScreen.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/general/ScreenManager.java
+/home/reinis/Desktop/mobile-automation-basic/src/main/java/screens/HomeScreen.java
